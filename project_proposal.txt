@@ -1,0 +1,20 @@
+Correlation Between Advertisment and Sales
+
+Group Members
+-Ricky
+-Zhengsheng
+-Sergio
+
+Description/Outline
+Comparing different types of advertisments, how they affect sales, and which are more effective. Comparing total budget of each ID and the sales. Showing any trends between the IDs
+
+Questions
+Which type advertisment is most effective?
+Which type is least effective?
+Is there a combination of that is more effective?
+Is there a threshold on the budget?
+
+Tasks
+-Initial clean up of data
+-Visualizations for data
+Dataset: https://www.kaggle.com/datasets/ankitkr60/advertisement-and-sales-data-for-analysis
