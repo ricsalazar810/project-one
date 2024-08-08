@@ -26,3 +26,4 @@ Are there any cases where similar spending yields different sales?
 How do the budgets for the lowest and highest earing companies compare?
 What is the percentage of spending for all types of advertising?
 Can we find data to show other types of advertising and sales of said data?
+Can we find if companies focused more budget into one type of media, and if that had an effect on sales?
