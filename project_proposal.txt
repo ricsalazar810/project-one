@@ -18,3 +18,11 @@ Tasks
 -Initial clean up of data
 -Visualizations for data
 Dataset: https://www.kaggle.com/datasets/ankitkr60/advertisement-and-sales-data-for-analysis
+
+Further Questions
+
+Can we predict future sales using this data?
+Are there any cases where similar spending yields different sales?
+How do the budgets for the lowest and highest earing companies compare?
+What is the percentage of spending for all types of advertising?
+Can we find data to show other types of advertising and sales of said data?
